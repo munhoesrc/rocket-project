@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img width="150px" alt="foguete logo" src="image/rocket.png" />
+  <img width="140px" alt="foguete logo" src="image/rocket.png" />
   <br />
   Uma animação com CSS puro.
 </h4>
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="http://munhoesrc.me/rocket-project/">
-      <img alt="website mockup" src="https://imgur.com/9N6YmDt" />    
+      <img alt="deploy rocket" src="image/all-devices-white.png" />    
   </a>
 </p>
 

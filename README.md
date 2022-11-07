@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="http://munhoesrc.me/rocket-project/">
-      <img alt="deploy rocket" src="image/all-devices-white.png" />    
+      <img alt="deploy rocket" src="https://i.imgur.com/9N6YmDt.png" />    
   </a>
 </p>
 

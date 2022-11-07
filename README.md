@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="http://munhoesrc.me/rocket-project/">
-      <img alt="website mockup" src="https://imgur.com/gallery/M17D5Rw" />    
+      <img alt="website mockup" src="https://imgur.com/9N6YmDt" />    
   </a>
 </p>
 

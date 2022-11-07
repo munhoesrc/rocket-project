@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## :information_source: Como usar
 
-Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com), [VS Code](https://code.visualstudio.com/), [Node.js](https://nodejs.org/) and [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus) . Da linha de comando:
+Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com), [VS Code](https://code.visualstudio.com/) e [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus) . Da linha de comando:
 
 ```bash
 # Clone o repositório
